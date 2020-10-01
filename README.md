@@ -38,7 +38,7 @@ npm run test
 
 Unit tests may occasionally fail when there are network connectivity issues or when services' servers give bad temporary responses.
 
-## Supported websites
+## Supportive websites
 * Adf.ly
 * Linkbucks.com (all alternative domains)
 * Shorte.st (sh.st, u2ks.com, jnw0.com, digg.to, dh10thbvu.com)
